@@ -36,7 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I am V SAVITHA, a student from the Sri Manakula Vinayagar Engineering College and I am currently looking for a Python, C or Web UI Developer internship.
 
-- :fist: I have a strong background in programming, and I am proficient in various programming languages such as Python, C, C++, HTML, CSS. I have a strong understanding of Python coding and have extensive experience in creating applications and automating processes with Python. I am also familiar in Public Speaking Skill and as well as with web development technologies such as HTML, CSS, and JavaScript.
+- :fist: I have a strong background in programming, and I am proficient in various programming languages such as Python, C, HTML, CSS. I have a strong understanding of Python coding and have extensive experience in creating applications and automating processes with Python. I am also familiar in Public Speaking Skill and as well as with web development technologies such as HTML, CSS, and JavaScript.
 
 - :bust_in_silhouette: I am a highly driven individual and I believe in the power of teamwork. I am passionate about learning new technologies and staying up to date with the latest trends.
 
